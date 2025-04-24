@@ -24,15 +24,15 @@ from io import BytesIO
 
 #####################################################################################################################
 # Global variables
-usernamee = "32115333034" # الرقم الجامعي
-passwordd = "Laioth44@"  # كلمة سر البوابة
-number_of_previous_rows = 0  # عدد الصفوف السابقة
-number_of_max_rows = 0 # عدد الصفوف الاقصى
-receiver_email = "laithamro17@gmail.com"  # الإيميل الذي سيتم إرسال الإشعار إليه
+usernamee = "" # الرقم الجامعي
+passwordd = ""  # كلمة سر البوابة
+number_of_previous_rows = 0  # عدد المواد الي نزلتلهم العلامة
+number_of_max_rows = 0 # عدد المواد أو اللابات الي منزلها هذا الفصل
+receiver_email = ""  # الإيميل الذي سيتم إرسال الإشعار إليه
 
 # Email setup
-sender_email = "laithamroq@gmail.com" # Use your own email
-password = "xjcw bxpi opwj wmds" # Use your own app password or OAuth credentials
+sender_email = "" # إيميل المسؤول
+password = "" # كلمة سر إيميل المسؤول
 
 #####################################################################################################################
 # Function to handle the submission of the form
