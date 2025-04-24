@@ -21,14 +21,14 @@ from bs4 import BeautifulSoup
 
 #####################################################################################################################
 # Global variables
-usernamee = "32115333034" # الرقم الجامعي
-passwordd = "Laioth44@"  # كلمة سر البوابة
+usernamee = "" # الرقم الجامعي
+passwordd = ""  # كلمة سر البوابة
 
-receiver_email = "laithamro17@gmail.com"  # الإيميل الذي سيتم إرسال الإشعار إليه
+receiver_email = ""  # الإيميل الذي سيتم إرسال الإشعار إليه
 
 # Email setup
-sender_email = "laithamroq@gmail.com" # Use your own email
-password = "xjcw bxpi opwj wmds" # Use your own app password or OAuth credentials
+sender_email = "" # إيميل المسؤول
+password = "" # كلمة سر إيميل المسؤول
 
 email_body = ""  # The body of the email to be sent
 #####################################################################################################################
